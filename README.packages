@@ -1,0 +1,15 @@
+git
+gcc
+patch
+byacc
+texinfo
+zlib-devel
+libacl-devel
+uuid-devel
+bison
+flex
+gettext
+gcc-c++
+ncurses-devel
+wget
+lzo-devel
