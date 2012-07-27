@@ -8,7 +8,7 @@ The procedure is to:
 
 (2) Using yum, install the list of RPM's in README.packages.
 
-(3) Unpack the tarballs in opt/ to /opt on the build machine.  Notice that one of the unpacks directly, and one unpacks to opt/.  I didnt correct that because I wanted to keep the original tarballs.
+(3) Unpack the tarballs in opt/ to /opt on the build machine.  Notice that one of the unpacks directly to the current directory, and one unpacks to opt/.  I didnt correct that because I wanted to keep the original tarballs.
 
 NOTE:  I didn't upgrade the RPM's on the build machine.  That might work.  Or it might not.  Autoconf in addnas_source is pretty brittle.
 
