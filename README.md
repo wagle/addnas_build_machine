@@ -4,7 +4,7 @@ This repo contains the information needed to construct a cross-compiling build m
 
 The procedure is to:
 
-(1) Install Fedora 13 from LIVE cdrom image.
+(1) Install Fedora 13 from LIVE cdrom image: http://mirrors.fedoraproject.org/publiclist/Fedora/13/
 
 (2) Using yum, install the list of RPM's in README.packages.
 
