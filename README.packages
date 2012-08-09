@@ -6,6 +6,7 @@ texinfo
 zlib-devel
 libacl-devel
 uuid-devel
+libuuid-devel 
 bison
 flex
 gettext
@@ -13,3 +14,4 @@ gcc-c++
 ncurses-devel
 wget
 lzo-devel
+mtd-utils-ubi
